@@ -1,0 +1,9 @@
+Package: com.sebbyseb.ittdhacks
+Name: ITTDHacks
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: A hack by SebbySeb
+Maintainer: SebbySeb
+Author: SebbySeb
+Section: Tweaks
